@@ -1,1 +1,1 @@
-# Javascipt-Game
+# Javascript-Game
